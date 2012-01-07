@@ -1,0 +1,1 @@
+This is a not very heavily modified version of the create_appliance.sh found in SuSE Studio builds. The only thing that was really changed was the image_file variable, which was replaced with a ls command.
